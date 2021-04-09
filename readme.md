@@ -4,9 +4,9 @@
 |--------------------------------------------------------------------|   
 |     _________                    AAA                               |   
 |    mmmmmmmmmmmm   _____         AAAAA                              |   
-|   mm     mm     mm  rrrrr        AA   AA                             |   
-|   mm     mm     mm  rr          AAAAAAAAA                            |   
-|   mm     mm     mm  rr   _._   AAA     AAA (+super students!)        |   
+|   mm    mm    mm  rrrrr        AA   AA                             |   
+|   mm    mm    mm  rr          AAAAAAAAA                            |   
+|   mm    mm    mm  rr   _._   AAA     AAA (+super students!)        |   
 |--------------------------------------------------------------------|   
 |--------------------------------------------------------------------|   
 
