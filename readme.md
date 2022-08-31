@@ -14,3 +14,4 @@ This code borrows from Jonas Schmedtmann
 
 https://github.com/jonasschmedtmann/complete-javascript-course/blob/master/05-Guess-My-Number/final/index.html
 
+This is a simple number guessing game built into a flask app.
